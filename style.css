@@ -1,0 +1,88 @@
+.contant a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    color:rgb(109,116,129);
+}
+.service a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+    text-decoration: none;
+    color:rgb(109,116,129);
+}
+.contant a:hover{
+    color:rgb(226,55,68);
+}
+.service a:hover{
+    color: rgb(226,55,68);
+}
+.service button {
+    cursor: pointer;
+}
+.black-text {
+    color:rgb(109,116,129);
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.red-text {
+    color: rgb(226,55,68);
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  .icon {
+    margin-right: 10px;
+  
+    background-size:30px;
+  }
+  .icons {
+    margin-right: 10px;
+    background: url("./") no-repeat left;
+    background-size:30px;
+  }
+  #patrner{
+    background-image: url(./background.png);
+     filter: brightness(40%);
+     border-radius: 20px;
+  
+  }
+  .footer p{
+    margin-top:2px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+color: #bebcbc;
+  }
+
+  .footer h2{
+
+color:#E23744;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  div a{
+    text-decoration: none;
+    color: #bebcbc;
+    font-family: Arial, Helvetica, sans-serif;
+  }
